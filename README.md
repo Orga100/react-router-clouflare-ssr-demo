@@ -2,7 +2,7 @@
 
 > Production-ready full-stack application showcasing modern web development on Cloudflare's edge network
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/react-router-hono-fullstack-template)
+SEE THIS DEMO ONLINE: https://f--cloudflare--rr-hono.zaglemo.workers.dev/
 
 ## 🎯 Overview
 
