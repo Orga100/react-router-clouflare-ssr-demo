@@ -1,15 +1,22 @@
-!**/glob-import/dir/node_modules
 .DS_Store
-.idea
-*.cpuprofile
-*.local
-*.log
-/.vscode/
-dist*
-dist-ssr
-explorations
+/node_modules/
+*.tsbuildinfo
 
-node_modules
-playground-temp
-temp
-.eslintcache
+# React Router
+/.react-router/
+/build/
+
+# Cloudflare
+.mf
+.wrangler
+
+# Environment files
+.dev.vars
+!.dev.example.vars
+
+wrangler.jsonc
+!wrangler.example.jsonc
+
+
+.env*
+!.env.example

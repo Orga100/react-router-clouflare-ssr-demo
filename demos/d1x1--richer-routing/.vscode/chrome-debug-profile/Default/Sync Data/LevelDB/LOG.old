@@ -1,4 +1,0 @@
-2025/07/29-18:33:38.390 bd666 Creating DB /home/av/dev/vite-ssr-demo/demos/d--cloudflare--react-router-starter-template/.vscode/chrome-debug-profile/Default/Sync Data/LevelDB since it was missing.
-2025/07/29-18:33:38.418 bd666 Reusing MANIFEST /home/av/dev/vite-ssr-demo/demos/d--cloudflare--react-router-starter-template/.vscode/chrome-debug-profile/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/07/29-18:33:38.419 bd666 Recovering log #3
-2025/07/29-18:33:38.420 bd666 Reusing old log /home/av/dev/vite-ssr-demo/demos/d--cloudflare--react-router-starter-template/.vscode/chrome-debug-profile/Default/Sync Data/LevelDB/000003.log 

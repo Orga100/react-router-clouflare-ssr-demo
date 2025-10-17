@@ -1,4 +1,0 @@
-2025/07/29-18:33:38.940 bd682 Creating DB /home/av/dev/vite-ssr-demo/demos/d--cloudflare--react-router-starter-template/.vscode/chrome-debug-profile/Default/shared_proto_db/metadata since it was missing.
-2025/07/29-18:33:38.961 bd682 Reusing MANIFEST /home/av/dev/vite-ssr-demo/demos/d--cloudflare--react-router-starter-template/.vscode/chrome-debug-profile/Default/shared_proto_db/metadata/MANIFEST-000001
-2025/07/29-18:33:38.961 bd682 Recovering log #3
-2025/07/29-18:33:38.962 bd682 Reusing old log /home/av/dev/vite-ssr-demo/demos/d--cloudflare--react-router-starter-template/.vscode/chrome-debug-profile/Default/shared_proto_db/metadata/000003.log 

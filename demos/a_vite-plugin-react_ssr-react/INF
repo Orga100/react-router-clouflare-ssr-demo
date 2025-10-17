@@ -1,6 +1,0 @@
-clone of demo from vite-plugin-react -> ssr-react
-
-my modifications:
-  - added dependencies (from https://github.com/stormkit-io/monorepo-template-react as an approximate example) just to make this demo work separately
-    
-
